@@ -1,0 +1,17 @@
+{
+  "modinfoversion": 1,
+  "modlist": [{
+    "modid": "PluginForBetterWood",
+    "name": "PluginForBetterWood",
+    "description": "Plugin for Better Wood",
+    "version": "0.0.0",
+    "mcversion": "1.6.2",
+    "url": "http://www.github.com/ChinChangYang",
+    "updateUrl": "",
+    "authors": [ "Chin-Chang Yang"],
+    "credits": "Created by Chin-Chang Yang",
+    "logoFile": "",
+    "requiredMods": [ "Forge", "SKC-BetterWood" ],
+    "useDependencyInformation": "true"
+  }]
+}
